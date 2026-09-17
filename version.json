@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.5",
+  "versionCode": 8,
+  "versionName": "1.6",
   "apkUrl": "https://github.com/Sijan505/routine-alarm/releases/latest/download/app-release.apk",
-  "notes": "Fixes Settings/Profile/Stats not scrolling. Adds a friend code (Name#1234) on the Profile screen."
+  "notes": "Adds push notifications for new releases (Firebase). Only sent if you enable 'Check for updates automatically' in Settings."
 }
