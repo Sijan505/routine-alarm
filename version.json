@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.1.1",
+  "versionCode": 4,
+  "versionName": "1.2",
   "apkUrl": "https://github.com/Sijan505/routine-alarm/releases/latest/download/app-release.apk",
-  "notes": "Fixes a crash when opening Settings (app icon picker)."
+  "notes": "Adds a daily background check that notifies you when a new version is available."
 }
