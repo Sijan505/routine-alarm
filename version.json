@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
+  "versionCode": 3,
+  "versionName": "1.1.1",
   "apkUrl": "https://github.com/Sijan505/routine-alarm/releases/latest/download/app-release.apk",
-  "notes": "Profile picture, app icons and new UI."
+  "notes": "Fixes a crash when opening Settings (app icon picker)."
 }
