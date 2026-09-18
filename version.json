@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.6.1",
+  "versionCode": 10,
+  "versionName": "1.7",
   "apkUrl": "https://github.com/Sijan505/routine-alarm/releases/latest/download/app-release.apk",
-  "notes": "Bug fixes and improvements"
+  "notes": "Adds groups: create a group with your friends, see who is online/offline, and chat."
 }
